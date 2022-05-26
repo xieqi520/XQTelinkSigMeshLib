@@ -68,11 +68,11 @@
 		38387DFEAB7071E6F21AE42078D4A68B /* Pods-XQTelinkSigMeshLib_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XQTelinkSigMeshLib_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		39B8BF6518D89BDD1A0127664DC332F0 /* zipAndUnzip.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = zipAndUnzip.h; sourceTree = "<group>"; };
 		3D32599E045D52092FC5E1B9C4FC3067 /* zipAndUnzip.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = zipAndUnzip.m; sourceTree = "<group>"; };
-		445753EC91F510D9D3991846792DA005 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		445753EC91F510D9D3991846792DA005 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		47BB20993C798E639A4E440B1320800E /* XQTelinkSigMeshLib-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "XQTelinkSigMeshLib-umbrella.h"; sourceTree = "<group>"; };
 		4DDDDA85193FCF1F60D944EA53FDBC8B /* Pods-XQTelinkSigMeshLib_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XQTelinkSigMeshLib_Example-Info.plist"; sourceTree = "<group>"; };
-		50944D5652D366E91C4176B1A5229D25 /* Pods_XQTelinkSigMeshLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XQTelinkSigMeshLib_Example.framework; path = "Pods-XQTelinkSigMeshLib_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		5DE694953E33BE6B28C6A8A72E445FF2 /* XQTelinkSigMeshLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = XQTelinkSigMeshLib.podspec; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		50944D5652D366E91C4176B1A5229D25 /* Pods_XQTelinkSigMeshLib_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XQTelinkSigMeshLib_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		5DE694953E33BE6B28C6A8A72E445FF2 /* XQTelinkSigMeshLib.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = XQTelinkSigMeshLib.podspec; sourceTree = "<group>"; tabWidth = 2; };
 		60941FB91CE254914B9A0749CBA4FF11 /* XQTelinkSigMeshLib-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "XQTelinkSigMeshLib-Info.plist"; sourceTree = "<group>"; };
 		649140297EDE1C9ABB139C6BE9C248C0 /* UIViewController+Message.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+Message.m"; sourceTree = "<group>"; };
 		6DC551EE0EAFA23ECEF3CCC4EA77ACD1 /* NSString+extension.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+extension.h"; sourceTree = "<group>"; };
@@ -82,16 +82,16 @@
 		821E5626436040DFDA25CF8161B64DEF /* NSString+calculate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "NSString+calculate.h"; sourceTree = "<group>"; };
 		96EA51014B73C0D5986CADD609E9C6D9 /* TelinkSigMeshLib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = TelinkSigMeshLib.framework; path = FM/TelinkSigMeshLib.framework; sourceTree = "<group>"; };
 		979C50674391A33D5C052E10D6DE7615 /* XQTelinkSigMeshLib.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = XQTelinkSigMeshLib.debug.xcconfig; sourceTree = "<group>"; };
-		9B1CB70A3EAF7C95BDDBAB0E9B7F0891 /* Pods_XQTelinkSigMeshLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_XQTelinkSigMeshLib_Tests.framework; path = "Pods-XQTelinkSigMeshLib_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		AAD1BDB9D9C971A97CFFD599021DE6FC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		9B1CB70A3EAF7C95BDDBAB0E9B7F0891 /* Pods_XQTelinkSigMeshLib_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_XQTelinkSigMeshLib_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		AAD1BDB9D9C971A97CFFD599021DE6FC /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		ABD52981B2F3B1846E620C3057443E82 /* OTAFileSource.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = OTAFileSource.m; sourceTree = "<group>"; };
 		B0151079D64E308B5F51F266EE6585A2 /* DemoCommand.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = DemoCommand.m; sourceTree = "<group>"; };
 		B31150512546C3B4B6A830FCB4638487 /* Pods-XQTelinkSigMeshLib_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-XQTelinkSigMeshLib_Example.modulemap"; sourceTree = "<group>"; };
 		BAB93C927F298177B70F6A8C4CFE9BF9 /* XQTelinkSigMeshLib.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = XQTelinkSigMeshLib.modulemap; sourceTree = "<group>"; };
 		C7278D5AFF9A431F24305F5F0D9F86AD /* DemoConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = DemoConst.h; path = XQTelinkSigMeshLib/Classes/DemoConst.h; sourceTree = "<group>"; };
 		C85E923687D93AAB7735F6ED82566412 /* Pods-XQTelinkSigMeshLib_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XQTelinkSigMeshLib_Tests.release.xcconfig"; sourceTree = "<group>"; };
-		CCDC83411A14CB426A25CCD0E797AAB0 /* XQTelinkSigMeshLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = XQTelinkSigMeshLib.framework; path = XQTelinkSigMeshLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		CCDC83411A14CB426A25CCD0E797AAB0 /* XQTelinkSigMeshLib.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = XQTelinkSigMeshLib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		CFF67FCB0F1D78603554746A82BD497A /* Pods-XQTelinkSigMeshLib_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XQTelinkSigMeshLib_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		D24494BA37AC346AF6ED504D7B5CB8D6 /* Pods-XQTelinkSigMeshLib_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XQTelinkSigMeshLib_Example.release.xcconfig"; sourceTree = "<group>"; };
 		DFA62A1F9ED389BAA55B396455060740 /* Pods-XQTelinkSigMeshLib_Example-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-XQTelinkSigMeshLib_Example-umbrella.h"; sourceTree = "<group>"; };
@@ -304,7 +304,6 @@
 				EEF3812C43A0353932CB06FCB33BE32D /* zipAndUnzip+zipString.h */,
 				75E481816AB8F1588D0BCF151CAFFC1E /* zipAndUnzip+zipString.m */,
 			);
-			name = ZIP;
 			path = ZIP;
 			sourceTree = "<group>";
 		};
@@ -797,8 +796,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

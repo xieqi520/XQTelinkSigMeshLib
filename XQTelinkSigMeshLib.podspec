@@ -19,11 +19,11 @@ Pod::Spec.new do |s|
 
   s.description      = 'mesh lib'
 
-  s.homepage         = 'https://github.com/xieqi/XQTelinkSigMeshLib'
+  s.homepage         = 'https://github.com/xieqi520/XQTelinkSigMeshLib'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'xieqi' => '941803686@qq.com' }
-  s.source           = { :git => 'https://github.com/xieqi/XQTelinkSigMeshLib.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/xieqi520/XQTelinkSigMeshLib.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
