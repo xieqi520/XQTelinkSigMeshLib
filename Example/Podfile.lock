@@ -1,0 +1,16 @@
+PODS:
+  - XQTelinkSigMeshLib (0.1.0)
+
+DEPENDENCIES:
+  - XQTelinkSigMeshLib (from `../`)
+
+EXTERNAL SOURCES:
+  XQTelinkSigMeshLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XQTelinkSigMeshLib: ac52d6b65cdccb6ec0fad49424fd1c529b8ce975
+
+PODFILE CHECKSUM: 5bcfc28dd846d94565a62f6808dcf1e398513f4d
+
+COCOAPODS: 1.10.1
